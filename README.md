@@ -83,7 +83,7 @@ medicine-dashboard/
 
   ### Run the backend
 ```
-cd medicine-dashboard
+cd server
 npm start
 ```
 
