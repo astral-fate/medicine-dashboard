@@ -11,6 +11,9 @@
 npm install web-vitals
 Frontend dependencies
 npm install axios react-router-dom
+npm install postcss
+npm install react-app-polyfill --save
+npm install mapbox-gl --save
 
 mkdir server
 cd server
