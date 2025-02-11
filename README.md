@@ -84,7 +84,7 @@ medicine-dashboard/
   ### Run the backend
 ```
 cd server
-npm start
+node server.js
 ```
 
 ### Run the front
